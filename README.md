@@ -31,6 +31,4 @@
 
 5. Desde una terminal diferente con la Ollama, ZeroTier y la IA corriendo ejecutar: 
 
- - PowerShell: 
-
- - CMD: 
+ - PowerShell: set OLLAMA_HOST="0.0.0.0"; ollama serve
