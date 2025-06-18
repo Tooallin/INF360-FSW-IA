@@ -16,7 +16,9 @@
 
 ![Texto alternativo](Images/ZeroTier.png)
 
-2. Decirle Al Alessandro que te Integre a la Red
+2. Decirle al Alessandro que te Integre a la Red de ZeroTier con tu direccion
+
+![Texto alternativo](Images/ZeroTier2.png)
 
 3. Desde una terminal (PowerShell o CMD si tienes Windows) correr el modelo: ollama run deepseek-r1:1.5b
 
@@ -27,4 +29,8 @@
 ![Texto alternativo](Images/Regla1.png)
 ![Texto alternativo](Images/Regla2.png)
 
-5. Desde una terminal diferente 
+5. Desde una terminal diferente con la Ollama, ZeroTier y la IA corriendo ejecutar: 
+
+ - PowerShell: 
+
+ - CMD: 
